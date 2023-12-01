@@ -1,0 +1,12 @@
+{
+  "name": "lat",
+  "data": {
+    "title": "latTitle",
+    "description": "latDesc"
+  },
+  "nodes": [
+    {
+      "name": "c1i1"
+    }
+  ]
+}

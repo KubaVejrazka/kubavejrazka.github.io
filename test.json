@@ -1,0 +1,9 @@
+{
+  "name": "TEST",
+  "data": {
+    "title": "Tohle je nadpis",
+    "text1": "Tohle je prvni text nad listem",
+    "list": "bod1\nbod2\nbod3",
+    "text3": "Tohle je druhy text pod listem\nVsechny texty jsou oznaceny 'text<index>', vsechny listy 'list<index>', indexy jsou potreba jen v pripade, ze textu/listu je 2 a vice\n\nJeden text lze rozdelit na vice radku"
+  }
+}
