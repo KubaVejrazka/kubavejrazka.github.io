@@ -1,0 +1,49 @@
+{
+  "name": "Atlas of Epilepsy",
+  "homename": "Atlas of\nEpileptic\nSeizures",
+  "home": "Home",
+  "guide": "Guide",
+  "warningtitle": "Warning:",
+  "warningtext": "The Atlas may be used for pre- or postgraduate education of medical professionals only. With an authors' approval it may be used also for training of non-medical individuals taking care of people with epilepsy. It is the responsibility of the presenting person to follow ethical rules and to keep confidentiality of presented cases. Public propagation of the Atlas is forbidden.\n\nWe thank all patients for allowing us to use videos of their seizures in the Atlas.",
+  "loading": "Loading",
+  "videos": "Videos",
+
+  "ssc": "Semiological Seizure Classification",
+  "epileptic": "Epileptic seizure",
+
+  "paroxysmal": "Paroxysmal event",
+  "paroxysmalDesc": "Paroxysmal events are episodes in which the observer believes that there is not sufficient evidence to assume that a “seizure-like” event was of epileptic nature.\n\nIf an “ictal” EEG is available, it should not show an ictal EEG pattern. This classification of epileptic seizures is based exclusively on semiology. However, the EEG can be used to determine whether an episode is epileptic or not. Episodes for which there is not sufficient proof of epileptic nature are classified merely as paroxysmal events.\n\nPsychogenic non-epileptic seizures may express typical signs:",
+  "paroxysmalList": "Longer duration, often longer than ten minutes.\nSituation-related.\nAsynchronneous, irregular jerks lacking typical evolution.\nNon stereotyped.\nNo posturing.\nPreserved response to stimuli while consciousness is grossly impaired. Eyes closed, active resistance with passive opening.\nNot originating from sleep, hower may start from pseudosleep.",
+
+  "autonomic": "Autonomic seizure",
+  "dialeptic": "Dialeptic seizure",
+  "special": "Special seizure",
+
+  "somatosensory": "Somatosensory aura",
+  "visual": "Visual aura",
+  "auditory": "Auditory aura",
+  "olfactory": "Olfactory aura",
+  "gustatory": "Gustatory aura",
+  "autonomicAura": "Autonomic aura",
+  "abdominal": "Abdominal aura",
+  "psychic": "Psychic aura",
+
+  "atonic": "Atonic seizure",
+  "astatic": "Astatic seizure",
+  "hypomotor": "Hypomotor seizure",
+  "akinetic": "Akinetic seizure",
+  "negativeMyoclonic": "Negative myoclonic seizure",
+  "aphasic": "Aphasic seizure",
+
+  "typicalDialeptic": "Typical dialeptic seizure",
+
+  "ices": "International Classification of Epileptic Seizures - ICES, 1981",
+
+  "anatomical": "Anatomical Classification",
+  "anatomicalTitle": "Anatomical Seizure Classification",
+  "anatomicalDesc": "Modified from Classification of Epilepsy and Epilepsy Syndromes (ILAE, 1989)\n(Commission on Classification and Terminology of the International League Against Epilepsy. Proposal for revised classification of epilepsy and epilepsy syndromes. Epilepsia 1989, 30:389-399)",
+
+  "lat": "Lateralization signs",
+  "latTitle": "Ictal and postictal lateralization signs",
+  "latDesc": "Ictal and postictal lateralization signs help to lateralize the seizure onset."
+}

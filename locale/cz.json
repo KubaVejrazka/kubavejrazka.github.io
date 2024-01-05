@@ -1,0 +1,49 @@
+{
+  "name": "Atlas Epilepsie",
+  "homename": "Atlas\nepileptických\nzáchvatů",
+  "home": "Domů",
+  "guide": "Návod",
+  "warningtitle": "Upozornění:",
+  "warningtext": "Tento Atlas je určen pouze ke vzdělávání zdravotnických pracovníků. Pro školení nezdravotnických osob podílejících se na péči o pacienty s epilepsií jej lze použít pouze s výslovným souhlasem autorů. Prezentující osoba zodpovídá za dodržení etických pravidel a zachování důvěrnosti použitých záznamů. Šíření Atlasu v laické veřejnosti je zakázané.\n\nDěkujeme všem pacientům za souhlas s použitím videozáznamů jejich záchvatů pro tento Atlas.",
+  "loading": "Načítání",
+  "videos": "Videa",
+
+  "ssc": "Semiologická klasifikace záchvatů - SSC",
+  "epileptic": "Epileptický záchvat",
+
+  "paroxysmal": "Paroxysmální událost",
+  "paroxysmalDesc": "Jsou to záchvaty, u kterých po zhodnocení předpokládáme neepileptický původ.\n\nTakové události jsou běžněji označovány jako „neepileptické záchvaty“ nebo „pseudozáchvaty“. Jejich původ může být somatický nebo psychogenní. Iktální EEG u těchto záchvatů nezobrazuje žádný z typických iktálních epileptických vzorců a může být v tomto případě použito k odlišení, zda je epizoda epileptickým záchvatem, nebo není.\nNeepileptické záchvaty jsou definovány jako opakující se paroxyzmální události, které napodobují epileptické záchvaty a které jsou jako tyto mylně diagnostikovány a léčeny.\n\nNeepileptické záchvaty psychogenní disociativní mají typicky tyto znaky:",
+  "paroxysmalList": "Delší trvání, často i desítky minut.\nZávislé na situaci.\nAsynchronní, nepravidelné záškuby bez typického vývoje.\nNení stereotypní charakter.\nNedochází k rozvoji postury.\nZachované cílené reakce, zavřené oči, aktivní odpor při snaze je otevřít.\nNevznikají ze skutečného spánku, někdy ale může jít o zdánlivý spánek.",
+
+  "autonomic": "Vegetativní (autonomní) záchvat",
+  "dialeptic": "Dialeptický záchvat",
+  "special": "Speciální záchvat",
+
+  "somatosensory": "Somatosenzorická aura",
+  "visual": "Zraková aura",
+  "auditory": "Sluchová aura",
+  "olfactory": "Čichová aura",
+  "gustatory": "Chuťová aura",
+  "autonomicAura": "Vegetativní (autonomní) aura",
+  "abdominal": "Abdominální aura",
+  "psychic": "Psychická aura",
+
+  "atonic": "Atonický záchvat",
+  "astatic": "Astatický záchvat",
+  "hypomotor": "Hypomotorický záchvat",
+  "akinetic": "Akinetický záchvat",
+  "negativeMyoclonic": "Negativní myoklonický záchvat",
+  "aphasic": "Záchvat s afázií",
+
+  "typicalDialeptic": "Typický dialeptický záchvat",
+
+  "ices": "Mezinárodní klasifikace epileptických záchvatů - ICES, 1981",
+
+  "anatomical": "Anatomická klasifikace",
+  "anatomicalTitle": "Anatomická klasifikace záchvatů",
+  "anatomicalDesc": "Modifikováno podle Mezinárodní klasifikace epilepsií a epileptických syndromů, vydané ILAE 1989\n(Commission on Classification and Terminology of the International League Against Epilepsy. Proposal for revised classification of epilepsy and epilepsy syndromes. Epilepsia 1989, 30:389-399)",
+
+  "lat": "Lateralizační příznaky",
+  "latTitle": "Iktální a postiktální lateralizační příznaky",
+  "latDesc": "Iktální a postiktální lateralizační příznaky pomáhají určit hemisféru, ve které záchvat vzniká."
+}
