@@ -14,67 +14,153 @@
     },
     {
       "name": "epileptic",
+      "data": {
+        "title": "epilepticTitle",
+        "text": "epilepticDesc"
+      },
       "nodes": [
         {
-          "name": "autonomic"
+          "name": "autonomic",
+          "data": {
+            "text1": "autonomicDesc",
+            "list": "distribList",
+            "video": "video46.mp4",
+            "text2": "distribNote"
+          }
         },
         {
           "name": "Aura",
+          "data": {
+            "text": "auraDesc"
+          },
           "nodes": [
             {
-              "name": "somatosensory"
+              "name": "somatosensory",
+              "data": {
+                "text": "somatosensoryDesc"
+              }
             },
             {
-              "name": "visual"
+              "name": "visual",
+              "data": {
+                "text1": "visualDesc",
+                "images": ["VizualLat.png", "VizualMez.png"],
+                "text2": "visualDesc2",
+                "list": "distribList"
+              }
             },
             {
-              "name": "auditory"
+              "name": "auditory",
+              "data": {
+                "text": "auditoryDesc",
+                "list": "distribList"
+              }
             },
             {
-              "name": "olfactory"
+              "name": "olfactory",
+              "data": {
+                "text": "olfactoryDesc"
+              }
             },
             {
-              "name": "gustatory"
+              "name": "gustatory",
+              "data": {
+                "text": "gustatoryDesc"
+              }
             },
             {
-              "name": "autonomicAura"
+              "name": "autonomicAura",
+              "data": {
+                "text": "autonomicAuraDesc",
+                "list": "distribList"
+              }
             },
             {
-              "name": "abdominal"
+              "name": "abdominal",
+              "data": {
+                "text": "abdominalDesc",
+                "video": "video13.mp4"
+              }
             },
             {
-              "name": "psychic"
+              "name": "psychic",
+              "data": {
+                "text": "psychicDesc",
+                "video": "video26.mp4"
+              }
             }
           ]
         },
         {
           "name": "dialeptic",
+          "data": {
+            "text": "dialepticDesc",
+            "list": "originList",
+            "video": "video27.mp4"
+          },
           "nodes": [
             {
-              "name": "typicalDialeptic"
+              "name": "typicalDialeptic",
+              "data": {
+                "text": "typicalDialepticDesc",
+                "list": "originList",
+                "video": "video10.mp4"
+              }
             }
           ]
         },
         {
           "name": "special",
+          "data": {
+            "text": "specialDesc"
+          },
           "nodes": [
             {
-              "name": "atonic"
+              "name": "atonic",
+              "data": {
+                "text": "atonicDesc",
+                "list": "distribList",
+                "video": "video19.mp4"
+              }
             },
             {
-              "name": "astatic"
+              "name": "astatic",
+              "data": {
+                "text": "astaticDesc",
+                "video": "video18.mp4"
+              }
             },
             {
-              "name": "hypomotor"
+              "name": "hypomotor",
+              "data": {
+                "text": "hypomotorDesc",
+                "list": "originList",
+                "video": "video20.mp4"
+              }
             },
             {
-              "name": "akinetic"
+              "name": "akinetic",
+              "data": {
+                "text": "akineticDesc",
+                "list": "distribList",
+                "video": "video30.mp4"
+              }
             },
             {
-              "name": "negativeMyoclonic"
+              "name": "negativeMyoclonic",
+              "data": {
+                "text": "negativeMyoclonicDesc",
+                "list": "distribList",
+                "video": ["video12.mp4", "video45.mp4"]
+              }
             },
             {
-              "name": "aphasic"
+              "name": "aphasic",
+              "data": {
+                "text": "aphasicDesc",
+                "list": "originList",
+                "video": "video11.mp4"
+              }
             }
           ]
         }

@@ -8,18 +8,30 @@
   "loading": "Loading",
   "videos": "Videos",
 
+  "distribList": "Left\nRight\nFor seizures involving a distinct somatotopic region, the somatotopic area is specified by simply naming the region itself. (Example: left arm, right foot, etc.)\nBilateral asymmetric\nGeneralized\nAxial",
+  "distribNote": "Note: Bilateral asymmetric means that the symptoms occurred in a bilateral distribution but had a significant degree of asymmetry. The term suggests that the patient has a focal epilepsy. The modifier generalized is used when the manifestations occur in a relatively widespread distribution and there is approximately equal involvement of both sides and of the distal and proximal segments. The modifier \"axial\" is used when the manifestations involve predominantly the muscles of the trunk and the proximal muscles of the extremities. Usually patients who have axial or generalized seizures have generalized epilepsy. However, some patients with focal epilepsy may have axial or generalized seizures and, vice versa, patients with generalized epilepsies may have seizures that include significant focal elements.",
+
   "ssc": "Semiological Seizure Classification",
+
   "epileptic": "Epileptic seizure",
+  "epilepticTitle": "Epileptic seizure (non-classified)",
+  "epilepticDesc": "The term is to be used exceptionally when the event is of epileptic origin and cannot be further specified.",
 
   "paroxysmal": "Paroxysmal event",
   "paroxysmalDesc": "Paroxysmal events are episodes in which the observer believes that there is not sufficient evidence to assume that a “seizure-like” event was of epileptic nature.\n\nIf an “ictal” EEG is available, it should not show an ictal EEG pattern. This classification of epileptic seizures is based exclusively on semiology. However, the EEG can be used to determine whether an episode is epileptic or not. Episodes for which there is not sufficient proof of epileptic nature are classified merely as paroxysmal events.\n\nPsychogenic non-epileptic seizures may express typical signs:",
   "paroxysmalList": "Longer duration, often longer than ten minutes.\nSituation-related.\nAsynchronneous, irregular jerks lacking typical evolution.\nNon stereotyped.\nNo posturing.\nPreserved response to stimuli while consciousness is grossly impaired. Eyes closed, active resistance with passive opening.\nNot originating from sleep, hower may start from pseudosleep.",
 
   "autonomic": "Autonomic seizure",
+  "autonomicDesc": "Autonomic seizures consist of episodic alterations of autonomic function that are elicited by epileptic activation of autonomic cortical centers.\n\nAutonomic seizures are quite rare type of seizure, usually with obvious ictal EEG pattern. Cases in which the patient reports only sensations that most probably correspond to an autonomic alteration (hot flashes, palpitations, and so on) and for which there is no objective documentation should be classified as autonomic auras (described above). To make the diagnosis of an autonomic seizure, episodes of autonomic dysfunction must be documented by appropriate polygraphic recording (tachycardia, blood pressure changes, and so on) or by direct observation. Documented episodes of autonomic dysfunction may be clinically silent (i.e., the episodes may only be detected by a monitor, without the patient experiencing any unusual symptoms). Tachycardia is frequently detected at the onset or in the course of epileptic seizures, so it may even be used as a paramater for automatic seizure detection. In most cases tachycardia reflects emotional response of patient to the seizure onset; patient may produce tachycardia, mydriasis and sweating in a response to unpleasant psychic aura or just to the recognized seizure onset.\n\nSomatotopic localization of the symptoms can be applied:",
+
+  "auraDesc": "Auras consist exclusively of subjective symptoms and are described by the patient when they ocure or recalled after the end of the seizure.\n\nAuras consist exclusively of subjective symptoms and usually occur at the beginning of a seizure as \"warning symptoms\" and produce no objective signs other than an occasional altered behavior by the patient to an \"unexpected\" experience. In general, they are brief (seconds) and only rarely may persist longer (minutes). They may occur in isolation from any other ictal symptom and, if so, tend to last slightly longer. In general, the epileptic nature of auralike symptomatology can be documented objectively only if the aura consistently evolves into a dialeptic or motor seizure or if EEG monitoring demonstrates an EEG seizure pattern during the aura. The aura type may in many cases help to localize the epileptogenic zone. In the SSC, auras are subdivided into the subgroups. If the aura description does not enable to assign it to specific subgroup the term \"aura\" should be used.",
+
+  "somatosensory": "Somatosensory aura",
+  "somatosensoryDesc": "Somatosensory auras consist of abnormal somatosensory sensations (\"paresthesias\") that are limited to a clearly defined region of the body.\n\nUsually are described as tingling or \"pins and needles\". Sensations that are poorly localized or consist of vague sensations should be classified as unclassifiable auras (just \"auras\"). Somatosensory auras  are the result of epileptic activation of somatosensory cortex (S I - Brodmann areas 1, 2, 3). The change in aura localization reflects the spread of seizure activity in somatosensory cortex. Supplementary sensorimotor or secondary somatosensory area activation (S II) may produce extensive and also bilateral paresthesia, or even pain.",
+
   "dialeptic": "Dialeptic seizure",
   "special": "Special seizure",
 
-  "somatosensory": "Somatosensory aura",
   "visual": "Visual aura",
   "auditory": "Auditory aura",
   "olfactory": "Olfactory aura",
