@@ -37,29 +37,29 @@
             {
               "name": "somatosensory",
               "data": {
-                "text": "somatosensoryDesc"
+                "text": "somatosensoryDesc",
+                "images": ["SenzitLat.png", "SenzitConvex.png"]
               }
             },
             {
               "name": "visual",
               "data": {
                 "text1": "visualDesc",
-                "images": ["VizualLat.png", "VizualMez.png"],
-                "text2": "visualDesc2",
-                "list": "distribList"
+                "images": ["VizualLat.png", "VizualMez.png"]
               }
             },
             {
               "name": "auditory",
               "data": {
                 "text": "auditoryDesc",
-                "list": "distribList"
+                "image": "SluchLat.png"
               }
             },
             {
               "name": "olfactory",
               "data": {
-                "text": "olfactoryDesc"
+                "text": "olfactoryDesc",
+                "image": "CichMez.png"
               }
             },
             {
@@ -71,8 +71,7 @@
             {
               "name": "autonomicAura",
               "data": {
-                "text": "autonomicAuraDesc",
-                "list": "distribList"
+                "text": "autonomicAuraDesc"
               }
             },
             {
@@ -118,9 +117,10 @@
             {
               "name": "atonic",
               "data": {
-                "text": "atonicDesc",
+                "text1": "atonicDesc",
                 "list": "distribList",
-                "video": "video19.mp4"
+                "video": "video19.mp4",
+                "text2": "distribNote"
               }
             },
             {
@@ -159,7 +159,7 @@
               "data": {
                 "text": "aphasicDesc",
                 "list": "originList",
-                "video": "video11.mp4"
+                "video": "kitten.mp4"
               }
             }
           ]
