@@ -2,11 +2,7 @@
   "name": "lat",
   "data": {
     "title": "latTitle",
-    "description": "latDesc"
-  },
-  "nodes": [
-    {
-      "name": "c1i1"
-    }
-  ]
+    "text1": "latDesc",
+    "text2": "unavailable"
+  }
 }

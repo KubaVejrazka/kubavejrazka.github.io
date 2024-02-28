@@ -38,14 +38,14 @@
               "name": "somatosensory",
               "data": {
                 "text": "somatosensoryDesc",
-                "images": ["SenzitLat.png", "SenzitConvex.png"]
+                "image": ["SenzitLat.png", "SenzitConvex.png"]
               }
             },
             {
               "name": "visual",
               "data": {
                 "text1": "visualDesc",
-                "images": ["VizualLat.png", "VizualMez.png"]
+                "image": ["VizualLat.png", "VizualMez.png"]
               }
             },
             {
@@ -87,6 +87,112 @@
                 "text": "psychicDesc",
                 "video": "video26.mp4"
               }
+            }
+          ]
+        },
+        {
+          "name": "motor",
+          "data": {
+            "text1": "motorDesc",
+            "list": "distribList",
+            "text2": "distribNote"
+          },
+          "nodes": [
+            {
+              "name": "simple",
+              "data": {
+                "text1": "simpleDesc",
+                "list": "distribList",
+                "text2": "distribNote"
+              },
+              "nodes": [
+                {
+                  "name": "myoclonic",
+                  "data": {
+                    "text": "myoclonicDesc",
+                    "list": "distribList",
+                    "video": ["video7.mp4", "video32.mp4", "video36.mp4", "video44.mp4"]
+                  }
+                },
+                {
+                  "name": "tonic",
+                  "data": {
+                    "text": "tonicDesc",
+                    "list": "distribList",
+                    "video": ["video8.mp4", "video5.mp4"]
+                  }
+                },
+                {
+                  "name": "epilepticSpasm",
+                  "data": {
+                    "text": "epilepticSpasmDesc",
+                    "list": "distribList",
+                    "video": "video17.mp4"
+                  }
+                },
+                {
+                  "name": "clonic",
+                  "data": {
+                    "text": "clonicDesc",
+                    "list": "distribList",
+                    "video": ["video3.mp4", "video35.mp4"]
+                  }
+                },
+                {
+                  "name": "tonicClonic",
+                  "data": {
+                    "text": "tonicClonicDesc",
+                    "video": ["video2.mp4", "video31.mp4"]
+                  }
+                },
+                {
+                  "name": "versive",
+                  "data": {
+                    "text": "versiveDesc",
+                    "list": "distribList",
+                    "video": ["video24.mp4", "video25.mp4"]
+                  }
+                }
+              ]
+            },
+            {
+              "name": "complex",
+              "data": {
+                "text": "complexDesc",
+                "list": "originList",
+                "video": "video37.mp4"
+              },
+              "nodes": [
+                {
+                  "name": "hypermotor",
+                  "data": {
+                    "text": "hypermotorDesc",
+                    "list": "originList",
+                    "video": ["video14.mp4", "video15.mp4", "video38.mp4"]
+                  }
+                },
+                {
+                  "name": "automotor",
+                  "data": {
+                    "text": "automotorDesc",
+                    "list": "originList",
+                    "video": [
+                      "video1.mp4",
+                      "video16.mp4",
+                      "video23.mp4",
+                      "video34.mp4",
+                      "video9.mp4"
+                    ]
+                  }
+                },
+                {
+                  "name": "gelastic",
+                  "data": {
+                    "text": "gelasticDesc",
+                    "video": "video39.mp4"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -159,7 +265,7 @@
               "data": {
                 "text": "aphasicDesc",
                 "list": "originList",
-                "video": "kitten.mp4"
+                "video": "video11.mp4"
               }
             }
           ]

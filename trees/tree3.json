@@ -2,11 +2,7 @@
   "name": "anatomical",
   "data": {
     "title": "anatomicalTitle",
-    "description": "anatomicalDesc"
-  },
-  "nodes": [
-    {
-      "name": "c1i1"
-    }
-  ]
+    "text1": "anatomicalDesc",
+    "text2": "unavailable"
+  }
 }

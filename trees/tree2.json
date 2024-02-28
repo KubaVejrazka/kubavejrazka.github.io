@@ -2,11 +2,78 @@
   "name": "ICES",
   "data": {
     "title": "ices",
-    "text": "Commission on Classification and Terminology of the International League Against Epilepsy. Proposal for Revised Clinical and Electroencephalographic Classification of Epileptic Seizures. Epilepsia 1981, 22:489-501"
+    "text": "Commission on Classification and Terminology of the International League Against Epilepsy. Proposal for Revised Clinical and Electroencephalographic Classification of Epileptic Seizures. Epilepsia 1981, 22:489-501\n\nVÝVOJ TÉTO SEKCE STÁLE PROBÍHÁ A JEJÍ OBSAH NENÍ KOMPLETNÍ"
   },
   "nodes": [
     {
-      "name": "c1i1"
+      "name": "partial",
+      "data": {
+        "title": "partialTitle",
+        "text": "partialDesc"
+      },
+      "nodes": [
+        {
+          "name": "simplePartial",
+          "data": {
+            "title": "simplePartialTitle",
+            "text": "simplePartialDesc",
+            "video": "video21.mp4"
+          },
+          "nodes": [
+            {
+              "name": "motorSigns",
+              "data": {
+                "title": "motorSignsTitle",
+                "text": "motorSignsDesc",
+                "list": "motorSignsList",
+                "video": ["video3.mp4", "video35.mp4", "video5.mp4", "video42.mp4"]
+              }
+            },
+            {
+              "name": "somatosensoryOrSpecial",
+              "data": {
+                "title": "somatosensoryOrSpecialTitle",
+                "text": "somatosensoryOrSpecialDesc",
+                "list": "somatosensoryOrSpecialList"
+              }
+            },
+            {
+              "name": "autonomySymptoms",
+              "data": {
+                "title": "autonomySymptomsTitle",
+                "text": "autonomySymptomsDesc",
+                "video": "video13.mp4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "generalized",
+      "data": {
+        "text": "generalizedDesc"
+      },
+      "nodes": [
+        {
+          "name": "unclassified",
+          "data": {
+            "text": "unclassifiedDesc",
+            "video": [
+              "video12.mp4",
+              "video17.mp4",
+              "video19.mp4",
+              "video20.mp4",
+              "video27.mp4",
+              "video30.mp4",
+              "video36.mp4",
+              "video38.mp4",
+              "video39.mp4",
+              "video46.mp4"
+            ]
+          }
+        }
+      ]
     }
   ]
 }
