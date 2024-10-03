@@ -1,5 +1,0 @@
-#hh Vítejte v atlasu epilepsie.
-
-Na levé straně si vyberte klasifikaci záchvatů. Níže pak zvolte kategorii záchvatů / záchvat, který vás zajímá. Kategorie můžete rozbalovat kliknutím na tlačítko + vedle jejich názvu.
-
-Pokud jste editorem atlasu, prosím koukněte na ###tut###návod pro editory###!tut###.
