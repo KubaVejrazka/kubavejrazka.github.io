@@ -1,0 +1,3 @@
+const a={"nav.title":"Atlas Epilepsie","main.title":"Atlas epileptických záchvatů","main.enter":"Spustit","main.warning":`Tento Atlas je určen pouze ke vzdělávání zdravotnických pracovníků. Pro školení nezdravotnických osob podílejících se na péči o pacienty s epilepsií jej lze použít pouze s výslovným souhlasem autorů. Prezentující osoba zodpovídá za dodržení etických pravidel a zachování důvěrnosti použitých záznamů. Šíření Atlasu v laické veřejnosti je zakázané.
+
+Děkujeme všem pacientům za souhlas s použitím videozáznamů jejich záchvatů pro tento Atlas.`,"class.ssc":"SSC","class.ices":"ICES","class.anat":"Anatomická klasifikace","class.lat":"Lateralizační příznaky"};export{a as default};
