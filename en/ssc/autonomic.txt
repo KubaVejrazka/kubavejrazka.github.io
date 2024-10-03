@@ -1,0 +1,15 @@
+#h Autonomic seizure
+Autonomic seizures consist of episodic alterations of autonomic function that are elicited by epileptic activation of autonomic cortical centers.
+
+Autonomic seizures are quite rare type of seizure, usually with obvious ictal EEG pattern. Cases in which the patient reports only sensations that most probably correspond to an autonomic alteration (hot flashes, palpitations, and so on) and for which there is no objective documentation should be classified as autonomic auras (described above). To make the diagnosis of an autonomic seizure, episodes of autonomic dysfunction must be documented by appropriate polygraphic recording (tachycardia, blood pressure changes, and so on) or by direct observation. Documented episodes of autonomic dysfunction may be clinically silent (i.e., the episodes may only be detected by a monitor, without the patient experiencing any unusual symptoms). Tachycardia is frequently detected at the onset or in the course of epileptic seizures, so it may even be used as a paramater for automatic seizure detection. In most cases tachycardia reflects emotional response of patient to the seizure onset; patient may produce tachycardia, mydriasis and sweating in a response to unpleasant psychic aura or just to the recognized seizure onset.
+
+#u Somatotopic localization of the symptoms can be applied:
+- Left
+- Right
+- For seizures involving a distinct somatotopic region, the somatotopic area is specified by simply naming the region itself. (Example: left arm, right foot, etc.)
+- Bilateral asymmetric
+- Generalized
+- Axial
+#vid video46.mp4
+#hh Note:
+Bilateral asymmetric means that the symptoms occurred in a bilateral distribution but had a significant degree of asymmetry. The term suggests that the patient has a focal epilepsy. The modifier generalized is used when the manifestations occur in a relatively widespread distribution and there is approximately equal involvement of both sides and of the distal and proximal segments. The modifier "axial" is used when the manifestations involve predominantly the muscles of the trunk and the proximal muscles of the extremities. Usually patients who have axial or generalized seizures have generalized epilepsy. However, some patients with focal epilepsy may have axial or generalized seizures and, vice versa, patients with generalized epilepsies may have seizures that include significant focal elements.

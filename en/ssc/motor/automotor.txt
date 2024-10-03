@@ -1,0 +1,11 @@
+#h Automotor seizure
+Automotor seizures are complex motor seizures in which the main manifestations consist of automatisms involving the distal segments of the hands and feet or the mouth and tongue.
+
+Typically, automatisms consist of oroalimentary activity like chewing, lip smacking, swallowing or hand movements like picking, stroking, tapping and are inappropriate for the situation. Automotor seizures are often associated with temporal lobe seizures and may be preceeded by interruption in motor activity. However, hand automatisms are elicited by electrical stimulation of anterior cingulate gyrus. Oral automatisms also may reflect epileptic activation of insula. Consciousness is usually affected but may be preserved, particularly when the seizure originates from the nondominant hemisphere.
+
+#u Use the following somatotopic or lateralizing modifiers to characterize the seizure:
+- Left hemispheric
+- Right hemispheric
+- Speech dominant
+- Speech non-dominant
+#vids video1.mp4 video16.mp4 video23.mp4 video34.mp4 video9.mp4

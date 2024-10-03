@@ -1,0 +1,11 @@
+#h Typický dialeptický záchvat
+Jsou to krátké epizody s náhlým začátkem a koncem, které bývají sdruženy jen s minimálními motorickými projevy (mrkání, nevýrazné záškuby, nevýznamné pohyby rukou).
+
+Typické dialeptické záchvaty jsou charakteristické pro idiopatickou generalizovanou epilepsii s absencemi (CAE, JAE) a jsou tradičně nazývány absence. Jsou snadno provokovatelné hyperventilací a méně často i fotostimulací. Na základě sdružení s dalšími klinickými znaky bylo v minulosti navrženo jejich další členění. Pacienti se syndromem Lennox-Gastaut mají také dialeptické záchvaty, obvykle delšího trvání, nicméně klinicky obtížně odlišitelné od typických dialeptických záchvatů. Tyto záchvaty bývají klasicky nazývány atypické absence a jsou provázeny charakteristickým EEG nálezem - pomalými SW komplexy 2,5 Hz.
+
+#u U tohoto typu záchvatu určit, pokud lze, jeho původ v hemisféře:
+- Levé
+- Pravé
+- Řečově dominantní
+- Řečově nedominantní
+#vid video10.mp4

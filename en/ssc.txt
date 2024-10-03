@@ -1,0 +1,2 @@
+#h Semiological Seizure Classification
+Lüders HO. et al., Semiological Seizure Classification, Epilepsia 39(9), 1998, pp 1006-1013

@@ -1,0 +1,5 @@
+#h Visual aura
+Visual hallucinations or illusions, when occurring in isolation, should be classified as visual auras.
+
+Visual auras are usually described as "flashes" or "black spots" in one half of the visual field, however sometimes may be reported just in the center of visual field. Ictal blindness may reflex the visual aura or may ocure as post-ictal symptom. More elaborate visual hallucinations or illusions that are associated with other complex distortions of perception (such as alterations of the sense of familiarity of what the patient is seeing or hearing, complex visual or auditory illusions, or the hearing of voices, and so on), should be classified as visual auras only if the visual hallucination or illusion is clearly the predominant symptom, at least for a significant part of the aura. Otherwise, they should be classified as psychic auras. Poorly defined alterations of vision (such as "blurry vision") should be designated unclassifiable auras. Visual auras are the result of epileptic activation of visual cortex (primary, V I - Brodmann area 17) or surrounding cortex (secondary, V II - Brodmann areas 18,19).
+#imgs VizualLat.png VizualMez.png

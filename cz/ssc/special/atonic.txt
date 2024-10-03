@@ -1,0 +1,15 @@
+#h Atonický záchvat
+Atonické záchvaty jsou charakterizovány náhlou ztrátou svalového tonu, která vede k poklesu hlavy nebo části těla, případně k pádu („head drops“, „drop attacks“).
+
+Atonické záchvaty jsou často předcházeny myoklonickým záškubem s propulzí nebo retropulzí těla. Tito pacienti pak mají více zraňujících pádů, než kdyby padali pouze atonicky. Atonické záchvaty jsou časté u pacientů, kteří mají i generalizované tonické záchvaty, např. při syndromu Lennox-Gastaut. Iktální EEG při takových záchvatech pravidelně zobrazuje generalizované epileptické výboje nebo elektrodekrement - nízkovoltážní rychlou aktivitu.
+
+Atonické záchvaty jsou většinou generalizované. Nicméně byla popsána i fokální atonie postihující pouze část těla jako „iktální paréza“ nebo „inhibiční záchvat“. Někdy může být obtížné odlišit fokální atonický záchvat od postiktální Toddovy parézy nebo parézy neepileptické, např. při migréně nebo v rámci tranzientní ischemické ataky. Patogeneze atonických záchvatů ještě nebyla dostatečně objasněna. Jsou pravděpodobně zapříčiněny epileptickou aktivací negativní motorické arey. Nicméně atonické záchvaty mohou být také výsledkem aktivace inhibičních center mozkového kmene, např. nucleus reticularis gigantocellularis cestou rychlého kortiko-retikulo-spinálního systému.
+
+#u U tohoto typu záchvatu upřesnit, pokud lze, distribuci projevu:
+- Levostranný
+- Pravostranný
+- Přesně lokalizovatelný na určitou část těla
+- Bilaterální asymetrický
+- Generalizovaný
+- Axiální
+#vid video19.mp4

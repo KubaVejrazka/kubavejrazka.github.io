@@ -1,0 +1,12 @@
+#h Hypermotorický záchvat
+Hypermotorické záchvaty charakterizuje komplexní posloupnost pohybů, která postihuje zejména trup a proximální svalstvo končetin. Tyto pohyby jsou často nucené, vypadají bizarně a jsou prováděny ve velké rychlosti.
+
+Vědomí může být zachováno. Záchvat často trvá méně než jednu minutu. Komplexní motorické příznaky imitují normální pohyby, které jsou ale v dané situaci neadekvátní a obyčejně postrádají smysl. Často se pohyby stereotypně opakují a vytvářejí dojem činnosti, např. šlapání.
+Tento typ záchvatů se častěji vyskytuje u pacientů s epilepsií frontální. Nicméně i šíření epileptické aktivity do frontálního laloku nebo suplementární senzomotorické oblasti může vést k obrazu hypermotorického záchvatu. Interiktální EEG záznamy jsou u těchto pacientů často chudé, iktální EEG se většinou vyznačuje atenuací s převládajícími svalovými a pohybovými artefakty. Negativní nález na EEG a bizarní vzhled těchto záchvatů při zachovaném vědomí může vést někdy i k chybné diagnóze neepileptických záchvatů psychogenních.
+
+#u U tohoto typu záchvatu určit, pokud lze, jeho původ v hemisféře:
+- Levé
+- Pravé
+- Řečově dominantní
+- Řečově nedominantní
+#vids video14.mp4 video15.mp4 video38.mp4

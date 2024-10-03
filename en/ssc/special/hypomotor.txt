@@ -1,0 +1,11 @@
+#h Hypomotor seizure
+Hypomotor seizures have as their main manifestation a decrease or total absence of motor activity without the emergence of new motor manifestations. This classification is used exclusively in patients in whom it is not possible to test consciousness during or after the seizure (such as newborns, infants, and severely mentally retarded patients).
+
+In many patients, consciousness is probably altered during the seizures even if by definition consciousness cannot be tested directly. In a few patients with hypomotor seizures, the pathogenesis of the seizures may be different; consciousness may be preserved, and the absence of movement may be an expression of an akinetic seizure or may be a reaction to an aura.
+
+#u Use the following somatotopic or lateralizing modifiers to characterize the seizure:
+- Left hemispheric
+- Right hemispheric
+- Speech dominant
+- Speech non-dominant
+#vid video20.mp4

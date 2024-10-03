@@ -1,0 +1,5 @@
+#h Astatický záchvat
+Astatické záchvaty jsou charakterizovány epileptickými pády.
+
+Epileptické pády mohou vznikat jako následek atonických, myoklonických nebo tonických záchvatů. Polygrafické studie ukazují, že častou příčinou pádu je záchvat tonický. Méně často je pád zapříčiněn ztrátou svalového tonu. I myoklonické záchvaty vedou někdy ke ztrátě stability a pád je způsoben atonií, která se vyskytne ihned po iniciálním myoklonickém záškubu. U většiny pacientů však polygrafické studie nejsou dostupné a patogeneze pádu tak zůstává neobjasněna. V těchto případech se zdá užitečné nazývat pády astatickými záchvaty. Jestliže je patogeneze epileptického pádu přesně objasněna, může pak být takový záchvat pojmenován v souladu s ní jako např. tonický nebo atonický záchvat.
+#vid video18.mp4

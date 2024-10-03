@@ -1,0 +1,14 @@
+#h Tonic seizure
+Tonic seizures consist of sustained muscle contractions, usually lasting >3 s, that lead to "positioning."
+
+Tonic seizures affect either isolated muscle groups or bilateral parts of the body - symmetrically or asymmetrically. Unilateral or bilateral asymmetric tonic seizures occur in patients with focal epilepsy and consciousness may be preserved. Loss of consciousness is typically observed in generalised tonic seizures in patients with Lennox-Gastaut syndrome.
+Unilateral tonic seizures reflect probably the epileptic activation of motor cortex, primary or secondary, asymmetric tonic seizures reflect the activation of supplementary sensorimotor area. In generalized tonic seizures of LGS patients the role of brainstem reticular formation and thalamus is suspected.
+
+#u Somatotopic localization of the symptoms can be applied:
+- Left
+- Right
+- For seizures involving a distinct somatotopic region, the somatotopic area is specified by simply naming the region itself. (Example: left arm, right foot, etc.)
+- Bilateral asymmetric
+- Generalized
+- Axial
+#vids video8.mp4 video5.mp4

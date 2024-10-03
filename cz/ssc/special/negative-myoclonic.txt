@@ -1,0 +1,15 @@
+#h Negativní myoklonický záchvat
+Vznikají při krátkém přerušení tonické svalové aktivity následkem epileptického výboje.
+
+Jsou také označovány jako epileptický negativní myoklonus. Krátké přerušení svalové aktivity vede k náhlému pohybu, který je podobný záškubu myoklonickému. Patogeneze pohybu spočívá ale v krátké ztrátě svalového tonu, nikoli ve svalové aktivaci charakteristické pro záchvat myoklonický.
+Záchvaty se skládají z krátké fáze (cca 30-400 ms) svalové atonie, která je předcházena epileptickým výbojem v centrální oblasti (cca 20-30 ms). Záchvat je klinicky vyjádřen pouze během svalové aktivity, a nemůže se tedy objevit v klidovém stavu. Byly popsány generalizované i fokální negativní myoklonické záchvaty. Dokladem o tom, že tyto záchvaty jsou zapříčiněny náhlou inhibicí tonické inervace motorických neuronů, je zobrazení „silent“ periody v EMG.
+Oblasti kortexu způsobující negativní myoklonické záchvaty zatím nejsou přesně definovány. Předpokládá se epileptický výboj v oblasti primárního senzomotorického kortexu.
+
+#u U tohoto typu záchvatu upřesnit, pokud lze, distribuci projevu:
+- Levostranný
+- Pravostranný
+- Přesně lokalizovatelný na určitou část těla
+- Bilaterální asymetrický
+- Generalizovaný
+- Axiální
+#vids video12.mp4 video45.mp4

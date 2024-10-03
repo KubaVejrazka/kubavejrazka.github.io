@@ -1,0 +1,16 @@
+#h Dialeptický záchvat
+
+Dominantním iktálním projevem je porucha vědomí a je přítomna aspoň částečná amnézie na záchvat. Nezávisí na iktálním nebo interiktálním EEG nálezu.
+
+Tyto záchvaty charakterizuje epizoda s poruchou vědomí, během níž není pacient vůbec schopen reagovat na vnější podněty nebo na ně reaguje jen v omezené míře. Dialeptické záchvaty musí doprovázet aspoň částečná amnézie. Pokud by si pacient zpětně vybavoval jiné příznaky záchvatu, které vedly k tomu, že nereagoval na vnější podněty, není možné takový klasifikovat záchvat jako dialeptický. Tak by tomu bylo např. v případě, kdy pacient prožívá intenzivní psychickou auru a přitom zdánlivě nereaguje, ale posléze si vybavuje detaily z tohoto období.
+
+Začátek a konec dialeptických záchvatů je obvykle náhlý. Motorická aktivita je během záchvatu redukována na minimum, ale někdy se vyskytují drobné myoklonické záškuby zvláště v oblasti očních víček, periorálně nebo i v oblasti ramen. V případě dialeptického záchvatu však tyto projevy nejsou dominantní. Jestliže je motorická aktivita více vyjádřena, pak je záchvat klasifikován jako motorický.
+
+Dialeptické záchvaty se mohou vyskytovat u generalizovaných i fokálních epilepsií a pod tento pojem jsou tak zahrnuty záchvaty nazývané dosud jako absence, atypické absence, frontální absence, temporální pseudoabsence apod.
+
+#u U tohoto typu záchvatu určit, pokud lze, jeho původ v hemisféře:
+- Levé
+- Pravé
+- Řečově dominantní
+- Řečově nedominantní
+#vid video27.mp4

@@ -1,0 +1,2 @@
+#h Epileptic seizure (non-classified)
+The term is to be used exceptionally when the event is of epileptic origin and cannot be further specified.

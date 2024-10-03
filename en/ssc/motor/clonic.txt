@@ -1,0 +1,13 @@
+#h Clonic seizure
+Clonic seizures are a series of myoclonic contractions that regularly recur at a rate of 0.2-5 Hz.
+
+Focal clonic seizures usually affect face or distal muscle groups of extremities. They reflect the epileptic activation of motor cortex, primary or secondary. If present, the change in localization of clonic seizure reflects the spread of seizure activity in motor cortex. Exceptionally distal clonic movements may be elicited by electrical stimulation of supplementary sensorimotor area. Unilateral clonic seizures typically ocure in early course of frontal lobe seizures, however may be also observed as the result of seizure spread from temporal or parieto-occipital areas. The consciousness is usually preserved at the onset of unilateral clonic seizure. Bilateral clonic seizure is mostly accompanied by an impairment of consciousness, however exceptionally may be preserved.
+
+#u Somatotopic localization of the symptoms can be applied:
+- Left
+- Right
+- For seizures involving a distinct somatotopic region, the somatotopic area is specified by simply naming the region itself. (Example: left arm, right foot, etc.)
+- Bilateral asymmetric
+- Generalized
+- Axial
+#vids video3.mp4 video35.mp4
