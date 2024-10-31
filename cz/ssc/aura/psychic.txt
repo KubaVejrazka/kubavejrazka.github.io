@@ -1,6 +1,0 @@
-#h Psychická aura
-Skládá se z komplexních halucinací a iluzí, které často současně postihují různé smysly.
-
-Psychické aury jsou zvláštní pocity, kdy pacient vnímá vnitřní nebo vnější svět v pozměněné podobě. Do této kategorie patří typicky uváděné aury, jako jsou narušení pocitu známosti, pocity již prožitého, viděného atd. Tyto aury jsou charakterizovány pocitem, že objekty, situace nebo události jsou prožívány jako dobře známé, nebo naopak cizí, ačkoli pacient chápe, že jsou nereálné a neobvyklé. Také se mohou vyskytovat iluze s pocitem, že se objekty objevují v dálce nebo ve změněné velikosti (makropsie, mikropsie). Často pacient uvádí jako součást takové aury pocit úzkosti nebo strachu.
-Psychické aury nejpravděpodobněji vznikají při aktivaci temporálního asociačního neokortexu.
-#vid video26.mp4

@@ -1,5 +1,0 @@
-#h Somatosenzorická aura
-Somatosenzorická aura se skládá z abnormálních somatosenzorických pocitů, většinou parestézií, které jsou omezeny na přesně definovanou část těla.
-
-Jsou obyčejně popisovány jako brnění, mravenčení nebo trnutí. Pocity, které nejsou lokalizovatelné nebo se skládají jen z neurčitých pocitů jsou označeny jen jako aura. Somatosenzorická aura je výsledkem aktivace somatosenzorického kortexu (S I - area 1, 2, 3). Někdy pociťovaný postup somatosenzorické aury odráží šíření výbojové aktivity po somatosenzorickém kortexu. Aktivace suplementární senzomotorické arey nebo sekundární somatosenzorické oblasti (S II) může vést k rozsáhlým a také k oboustranným parestéziím, někdy i bolestem.
-#imgs SenzitLat.png SenzitConvex.png

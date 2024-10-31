@@ -1,5 +1,0 @@
-#h Auditory aura
-Auditory auras are auditory hallucinations or illusions and usually are described as different tones or noises.
-
-More elaborated auditory hallucinations or illusions that occur together with complex alterations of perception (such as alterations of the sense of familiarity of what the patient is seeing or hearing, visual or auditory illusions, or the simultaneous occurrence of complex visual hallucinations, and so on) should be classified as auditory auras only if the auditory hallucination or illusion is clearly the predominant symptom. Otherwise, these complex auras should be classified as psychic auras. Auditory auras are the result of epileptic activation of primary auditory cortex close to Heschl gyri (area A I - Brodmann areas 41, 42). More complex auditory hallucinations as voices or melodies are attributed to the activation of temporal association neocortex (secondary auditory area A II - Brodmann area 22).
-#img SluchLat.png

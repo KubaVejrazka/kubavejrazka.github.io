@@ -1,7 +1,0 @@
-#h Tonicko-klonický záchvat
-Tonicko-klonické záchvaty jsou charakterizovány typickou posloupností tonické kontrakce celého těla plynule přecházející do fáze s klonickými kontrakcemi.
-
-Výraz "grand mal" je již klasicky vžitým synonymem pro generalizovaný tonicko-klonický záchvat, který je hlavním představitelem v této skupině záchvatů. Na počátku takového záchvatu se objevuje tonická postura všech končetin, která později přechází do rytmických záškubů, jejichž frekvence postupně zpomaluje se současně se zvyšující amplitudou. Porucha vědomí nastupuje vždy již v tonické fázi. Generalizované tonicko-klonické záchvaty se mohou vyskytovat u generalizovaných i fokálních epileptických syndromů.
-
-V EEG se během tonické fáze zobrazuje generalizovaná rychlá nízkovoltážní aktivita s narůstající amplitudou, která přechází ve fázi klonických záškubů do obrazu generalizovaných rytmických výbojů hrotů střídajících se s fázemi oploštění. Fokální motorické záchvaty s tonicko-klonickým vývojem jsou málo časté, protože paroxyzmální aktivita v primární motorické oblasti přechází většinou do klonického (nikoli tonického) záchvatu. Výjimkou jsou tonické záchvaty, které se šíří do suplementární senzomotorické oblasti, u nichž následují po počáteční tonické fázi klonické záškuby jednostranné nebo bilaterální.
-#vids video2.mp4 video31.mp4

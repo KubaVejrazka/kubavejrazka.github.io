@@ -1,4 +1,0 @@
-#h Special seizure
-Seizures that cannot be classified in one of the four types described above are classified as special seizures.
-
-All these seizures are "negative" or "inhibitory" motor seizures except the aphasic seizures that most probably represent "negative cognitive" seizures.

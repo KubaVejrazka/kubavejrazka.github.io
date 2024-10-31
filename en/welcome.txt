@@ -1,5 +1,0 @@
-#hh Welcome to the Atlas of Epileptic Seizures.
-
-On the left side, you can select the seizure / category of seizures you are interested in by clicking on it. You can expand categories by clicking the + button next to their names.
-
-If you're an editor of the atlas, please check out ###tut###the editing guide###!tut### (available in czech language only).

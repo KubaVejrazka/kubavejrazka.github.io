@@ -1,5 +1,0 @@
-#h Abdominální aura
-Pocit v oblasti břicha jako epileptický fenomén tvoří dominantní část aury.
-
-Abdominální aury jsou pacientem popisovány jako nepříjemné pocity s maximem v oblasti žaludku (epigastria). Vyskytují se často s dalšími autonomními symptomy, jako je nauzea apod. Některé z těchto příznaků jsou pravděpodobně spojeny se zvýšením abdominální peristaltiky. V jiných případech mohou být způsobeny epileptickou aktivací viscero-abdominální kortikální oblasti. Nezávisle na své patogenezi je abdominální aura velmi těsně spjata s epilepsií temporálního laloku, a je proto užitečné klasifikovat ji zvlášť mimo ostatní autonomní aury. Je pravděpodobně způsobena epileptickou aktivací inzuly.
-#vid video13.mp4

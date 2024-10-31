@@ -1,5 +1,0 @@
-#h Abdominal aura
-Epigastric sensation is the dominant part of aura.
-
-Abdominal aura is usually described by the patient as unpleasant rising sensation at the stomach area (epigastrium). They often occur in association with other autonomic symptoms, e.g. nausea, etc. Some of these symptoms are probably the expression of increased abdominal peristaltic activity and therefore correspond to a subgroup of autonomic auras (or autonomic seizures, if the alteration of peristalsis has been documented). In other cases, they may be caused by epileptic activation of viscero-abdominal cortical areas. Independent of the pathogenesis abdominal auras are closely related to temporal lobe epilepsy; therefore, it appears useful to classify them independently as abdominal auras.
-#vid video13.mp4

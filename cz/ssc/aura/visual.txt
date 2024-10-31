@@ -1,7 +1,0 @@
-#h Zraková aura
-Zrakové halucinace nebo iluze jsou jediným hlavním projevem nebo tvoří dominantní část aury.
-
-Zrakové aury jsou obyčejně popisovány jako „záblesky“ nebo někdy jako „temné skvrny“ a jsou vyjádřením aktivace vizuálního kortexu epileptickým výbojem. Vizuální aury obvykle zasahují kontralaterální zrakové pole, ale někteří pacienti popisují zrakové fenomény přímo ve středu zorného pole. Iktální slepota může být odrazem zrakové aury, ale může se také objevit jako postiktální fenomén po jejím skončení. Často bývají zrakové halucinace nebo iluze spojeny s dalšími komplexními poruchami vnímání - s pocitem narušení známosti viděného či slyšeného, s komplexními zrakovými halucinacemi, jako je vidění objektů, zvířat a lidí nebo zkreslení jejich obrazu. Pak by měly být klasifikovány jako psychická aura. Špatně definovatelná alterace vidění, jako je např. rozmazané vidění bude zahrnuta mezi neklasifikovatelnou auru.
-
-Zrakové aury jsou výsledkem aktivace zrakového kortexu (primární zraková oblast V I - area 17) a částí okolního kortexu (sekundární zraková oblast V II - area 18, 19).
-#imgs VizualLat.png VizualMez.png

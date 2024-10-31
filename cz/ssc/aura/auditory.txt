@@ -1,7 +1,0 @@
-#h Sluchová aura
-Izolované sluchové halucinace nebo iluze tvoří dominantní část aury.
-
-Sluchové aury se skládají ze sluchových halucinací a jsou obyčejně popisovány jako „zvuky“. Sluchové halucinace nebo iluze se často vyskytují společně s jinými komplexními poruchami vnímání - s pocitem již viděného, slyšeného, s komplexními zrakovými halucinacemi či iluzemi. Jsou klasifikovány jako sluchová aura pouze tehdy, jsou-li sluchové vjemy dominantní. Jinak budou tyto komplexní poruchy vnímání klasifikovány jako psychická aura.
-
-Sluchové aury pravděpodobně pocházejí z výbojové aktivace Heschlových závitů (primární sluchová korová oblast A I - area 41, 42). Občas se vyskytují komplexní sluchové halucinace, jako např. hlasy nebo melodie, ty jsou přisuzovány aktivaci temporálního asociačního neokortexu (sekundární sluchová korová oblast A II - area 22).
-#img SluchLat.png

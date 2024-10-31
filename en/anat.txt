@@ -1,3 +1,0 @@
-#h Anatomical Seizure Classification
-Modified from Classification of Epilepsy and Epilepsy Syndromes (ILAE, 1989)
-(Commission on Classification and Terminology of the International League Against Epilepsy. Proposal for revised classification of epilepsy and epilepsy syndromes. Epilepsia 1989, 30:389-399)

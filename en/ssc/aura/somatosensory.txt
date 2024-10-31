@@ -1,5 +1,0 @@
-#h Somatosensory aura
-Somatosensory auras consist of abnormal somatosensory sensations ("paresthesias") that are limited to a clearly defined region of the body.
-
-Usually are described as tingling or "pins and needles". Sensations that are poorly localized or consist of vague sensations should be classified as unclassifiable auras (just "auras"). Somatosensory auras are the result of epileptic activation of somatosensory cortex (S I - Brodmann areas 1, 2, 3). The change in aura localization reflects the spread of seizure activity in somatosensory cortex. Supplementary sensorimotor or secondary somatosensory area activation (S II) may produce extensive and also bilateral paresthesia, or even pain.
-#imgs SenzitLat.png SenzitConvex.png

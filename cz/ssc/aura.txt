@@ -1,6 +1,0 @@
-#h Aura
-Aura je charakterizována subjektivně pociťovanými iktálními vjemy, které mají senzorické, psychosenzorické nebo prožitkové rysy.
-
-O auře mluvíme, jestliže se během epileptického záchvatu vyskytují výlučně subjektivní vjemy, které nejsou doprovázeny objektivními projevy. Aura většinou bývá krátkého trvání (sekundy), výjimečně je delší (minuty). Může se vyskytovat izolovaně od jiných iktálních projevů, a pak má tendenci trvat déle. Většinou se však vyvíjí do jiného typu záchvatu v závislosti na vzorci šíření. Skutečný epileptický původ může být objektivizován nálezem iktálního korelátu v EEG během aury nebo v případě, kdy aura přejde do jiného typu záchvatu, většinou dialeptického nebo motorického.
-
-Jsou popsány různé formy aury. Mnoho z nich (zraková, somatosenzorická, abdominální) poskytuje klinicky použitelnou lokalizační informaci o epileptogenní zóně, tedy oblasti, v níž záchvat začíná. V SSC jsou jednotlivé typy aury rozděleny do následujících podskupin. Pokud nelze určit dominantní charakter aury, pak ji označíme pouze jako aura.
