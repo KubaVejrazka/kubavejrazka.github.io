@@ -1,0 +1,3 @@
+#h Absence pouze s poruchou vědomí
+Absence, při níž se nevyskytuje žádná motorická aktivita.
+#vid video10.mp4

@@ -1,0 +1,11 @@
+#h Parietální lalok
+#img ParietLat.png
+#u Záchvaty z parietálního laloku mají typicky tyto znaky:
+- Somatosenzorická aura (parestézie, dysestézie, bolestivé pocity). Somatotopická organizace. Statické nebo s jacksonským šířením.
+- Pocit změny tělesného schématu (pocit jiné polohy nebo pohybu, cizosti končetiny). Pocit nemožnosti pohnout končetinou nebo pocit její slabosti.
+- Vertigo, iluze pohybu (temporoparietální pomezí).
+- Komplexní zrakové halucinace (mikropsie, metamorfopsie).
+- Dyslexie, dysgrafie, dyskalkulie.
+- Další vývoj do záchvatu frontálního nebo temporálního charakteru.
+- Pozáchvatová paréza nebo dysfázie.
+#vids video12.mp4 video42.mp4 video33.mp4

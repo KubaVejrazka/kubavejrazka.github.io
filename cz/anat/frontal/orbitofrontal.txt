@@ -1,0 +1,8 @@
+#h Orbitofrontální oblast
+#imgs OrbitoFLat.png OrbitoFMez.png
+#u Záchvaty z orbitofrontální oblasti mají typicky tyto znaky:
+- Motorická agitace - hypermotorické záchvaty s rytmickými pohyby proximálních částí končetin nebo trupu a s gestikulací.
+- Emotivní náboj projevu nebo výrazu obličeje.
+- Autonomní příznaky, inkontinence.
+- Čichové halucinace (relativně zřídka).
+#vid video14.mp4

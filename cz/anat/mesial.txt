@@ -1,0 +1,8 @@
+#h Meziotemporální oblast
+#img MezioTCoron.png
+#u Záchvaty z oblasti meziotemporální mají typicky tyto znaky:
+- Epigastrická aura a/nebo pocit strachu.
+- Časné oroalimentární automatizmy.
+- Časná netonická ipsilaterální deviace hlavy.
+- Kontralaterální dystonie a ipsilaterální automatizmy HK.
+#vids video1.mp4 video9.mp4 video16.mp4 video13.mp4

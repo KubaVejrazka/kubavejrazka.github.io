@@ -1,0 +1,5 @@
+#h Parciální přecházející v generalizované
+- I.C.1 Simplexní parciální (I.A) přecházející v generalizované
+- I.C.2 Komplexní parciální (I.B) přecházející v generalizované
+- I.C.3 Simplexní parciální přecházející v komplexní parciální a pak v generalizované
+#vids video25.mp4 video2.mp4 video41.mp4

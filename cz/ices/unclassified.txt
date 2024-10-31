@@ -1,0 +1,3 @@
+#h Neklasifikované epileptické záchvaty
+Tato kategorie zahrnuje všechny záchvaty, které nelze klasifikovat kvůli nedostatečným nebo neúplným údajům. Zahrnuje také některé záchvaty, které svou povahou nezapadají do výše uvedených kategorií. Mnoho záchvatů objevujících se v kojeneckém věku (např. rytmické pohyby očí, žvýkání, plovací pohyby, chvění se) bude spadat do této kategorie, dokud další zkušenosti získané při video-EEG monitorování nedovolí jejich dílčí zařazení v rámci exaktní klasifikace.
+#vids video12.mp4 video17.mp4 video19.mp4 video20.mp4 video27.mp4 video30.mp4 video36.mp4 video38.mp4 video39.mp4 video40.mp4

@@ -1,0 +1,14 @@
+#h Complex partial seizures
+When consciousness is impaired, the seizure is classified as a complex partial seizure. Impairment of consciousness may be the first clinical sign, or simple partial seizures may evolve into complex partial seizures. In patients with impaired consciousness, aberrations of behavior (automatisms) may occur. A partial seizure may not terminate, but instead progress to a generalized motor seizure. Impaired consciousness is defined as the inability to respond normally to exogenous stimuli by virtue of altered awareness and/or responsiveness. In this context, unresponsiveness is other than the result of paralysis, aphasia or apraxia.There is considerable evidence that simple partial seizures usually have unilateral hemispheric involvement and only rarely have bilateral hemispheric involvement: complex partial seizures, however, frequently have bilateral hemispheric involvement.
+
+#hh Automatisms
+In the Dictionary of Epilepsy (Gastaut, 1973) automatisms are described as “more or less coordinated adapted (eupractic or dyspractic) involuntary motor activity occurring during the state of clouding of consciousness either in the course of, or after an epileptic seizure, and usually followed by amnesia for the event. The automatism may be simply a continuation of an activity that was going on when the seizure occurred, or, conversely a new activity developed in association with the ictal impairment of consciousness. Usually, the activity is commonplace in nature, often provoked by the subject´s environment, or by his sensations during the seizure; exceptionally, fragmentary, primitive, infantile, or antisocial behavior is seen.
+
+#u From a symptomatological point of view the following are distinguished:
+- Eating automatisms (chewing, swallowing)
+- Automatisms of mimicry, expressing the subject´s emotional state (usually of fear) during the seizure
+- Gestural automatisms, crude or elaborate; directed toward either the subject or his environment
+- Ambulatory automatisms
+- Verbal automatisms.
+
+Ictal epileptic automatisms usually represent the release of automatic behavior under the influence of clouding of consciousness that accompanies a generalized or partial epileptic seizure (confusional automatisms).

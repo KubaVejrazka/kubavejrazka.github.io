@@ -1,0 +1,13 @@
+#h Myoclonic seizure
+Myoclonic seizures consist of short muscle contractions lasting <400 ms.
+
+Bilateral or unilateral involvement of different muscle groups may predominate. Generalized myoclonic seizures occur in Lennox-Gastaut syndrome - patients typically have also other types of seizures, e.g. tonic, dialeptic, astatic, generalized tonic-clonic. Generalized myoclonic seizures affecting predominantly arms and proximal parts of upper extremities are typically seen in patients with juvenile myoclonic epilepsy.
+
+#u Somatotopic localization of the symptoms can be applied:
+- Left
+- Right
+- For seizures involving a distinct somatotopic region, the somatotopic area is specified by simply naming the region itself. (Example: left arm, right foot, etc.)
+- Bilateral asymmetric
+- Generalized
+- Axial
+#vids video7.mp4 video32.mp4 video36.mp4 video44.mp4

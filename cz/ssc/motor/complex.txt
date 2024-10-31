@@ -1,0 +1,11 @@
+#h Komplexní motorický záchvat
+Komplexní motorické záchvaty jsou charakterizované komplexními pohybovými vzorci - automatizmy, které simulují přirozené pohyby, ale objevují se v neadekvátní situaci.
+
+Jsou rozděleny do dalších tří typů podle dominujícího motorického projevu. Výrazem komplexní je zde vyjádřena relativní složitost (komplexita) pohybového vzorce, nikoli úroveň poruchy vědomí.
+
+#u U tohoto typu záchvatu určit, pokud lze, jeho původ v hemisféře:
+- Levé
+- Pravé
+- Řečově dominantní
+- Řečově nedominantní
+#vid video37.mp4

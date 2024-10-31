@@ -1,0 +1,9 @@
+#h Temporální lalok
+#img TemporalLat.png
+#u Záchvaty z temporálního laloku mají typicky tyto znaky:
+- Delší trvání většinou 1-2 minuty.
+- Epigastrická nebo psychická aura.
+- Záraz v činnosti, oroalimentární automatizmy - žvýkání, mlaskání, olizování, polykání.
+- Méně častá sekundární generalizace.
+- Delší postparoxyzmální dezorientace.
+#vids video23.mp4 video34.mp4

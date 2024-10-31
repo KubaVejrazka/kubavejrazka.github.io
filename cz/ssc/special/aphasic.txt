@@ -1,0 +1,11 @@
+#h Záchvat s afázií
+Pro tyto záchvaty je charakteristická neschopnost mluvit nebo rozumět řeči během záchvatu. Vědomí je přitom zachováno.
+
+Záchvaty s afázií nejpravděpodobněji odrážejí epileptickou aktivaci korových řečových center (Brocovo - area 44,45 a Wernickeovo - area 22).
+
+#u U tohoto typu záchvatu určit, pokud lze, jeho původ v hemisféře:
+- Levé
+- Pravé
+- Řečově dominantní
+- Řečově nedominantní
+#vid video11.mp4

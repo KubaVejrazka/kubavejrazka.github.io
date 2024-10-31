@@ -1,0 +1,76 @@
+{
+	"CZname": "Anatomická klasifikace",
+	"ENname": "Anatomical Seizure Classification",
+	"data": "anat",
+	"nodes": [
+		{
+			"CZname": "Temporální lalok",
+			"ENname": "Temporal lobe",
+			"data": "anat/temporal",
+			"nodes": [
+				{
+					"CZname": "Meziotemporální oblast",
+					"ENname": "Mesial temporal region",
+					"data": "anat/mesial"
+				},
+				{
+					"CZname": "Neokortikální temporální oblast",
+					"ENname": "Neocortical temporal region",
+					"data": "anat/neocritical"
+				}
+			]
+		},
+		{
+			"CZname": "Frontální lalok",
+			"ENname": "Frontal lobe",
+			"data": "anat/frontal",
+			"nodes": [
+				{
+					"CZname": "Suplementární motorická oblast",
+					"ENname": "Supplementary motor area",
+					"data": "anat/frontal/supplementary"
+				},
+				{
+					"CZname": "Cingulární oblast",
+					"ENname": "Anterior cingulate gyrus",
+					"data": "anat/frontal/cingulate"
+				},
+				{
+					"CZname": "Frontopolární oblast",
+					"ENname": "Frontopolar region",
+					"data": "anat/frontal/frontopolar"
+				},
+				{
+					"CZname": "Orbitofrontální oblast",
+					"ENname": "Orbitofrontal region",
+					"data": "anat/frontal/orbitofrontal"
+				},
+				{
+					"CZname": "Dorzolaterální oblast",
+					"ENname": "Dorsolateral prefrontal cortex",
+					"data": "anat/frontal/dorsolateral"
+				},
+				{
+					"CZname": "Operkulární oblast",
+					"ENname": "Frontal opercular and anterior insular region",
+					"data": "anat/frontal/opercular"
+				},
+				{
+					"CZname": "Primární motorická oblast",
+					"ENname": "Primary motor cortex",
+					"data": "anat/frontal/motor"
+				}
+			]
+		},
+		{
+			"CZname": "Parietální lalok",
+			"ENname": "Parietal lobe",
+			"data": "anat/parietal"
+		},
+		{
+			"CZname": "Okcipitální lalok",
+			"ENname": "Occipital lobe",
+			"data": "anat/occipital"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+#h Epileptické spazmy
+Termín je užíván k označení svalové kontrakce různého trvání, jež dominantně postihuje axiální svalstvo.
+
+Epileptické spazmy jsou typické pro děti s Westovým syndromem a jsou klasicky nazývány infantilními spazmy. Projevují se krátkými myoklonickými záškuby nebo delšími záchvaty se symetrickou tonickou posturou a mohou se i u jednoho pacienta záchvat od záchvatu lišit. Svalové kontrakce postihují převážně proximální a axiální svalové skupiny a typicky vedou ke flexi šíje, dolních končetin a k abdukci obou paží. Podobají se tak "saalamové postuře" a byly historicky nazývány "saalamové křeče", dalším historicky užívaným termínem pro tento typ záchvatu je výraz "bleskové křeče". Epileptické spazmy obyčejně trvají 2-10 sec a často se objevují v sériích.
+
+Pacienti s epileptickými spazmy a Westovým syndromem mají typický interiktální EEG nález charakterizovaný hypsarytmií. Iktální EEG se pak vyznačuje elektrodekrementem.
+
+#u U tohoto typu záchvatu upřesnit, pokud lze, distribuci projevu:
+- Levostranný
+- Pravostranný
+- Přesně lokalizovatelný na určitou část těla
+- Bilaterální asymetrický
+- Generalizovaný
+- Axiální
+#vid video17.mp4

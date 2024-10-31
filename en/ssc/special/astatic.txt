@@ -1,0 +1,5 @@
+#h Astatic seizure
+Astatic seizures consist of epileptic falls.
+
+Epileptic falls may result from atonic, tonic or myoclonic seizure. Polygraphic studies show that only in a few patients are the falls the result of atonic seizures. In most patients, a myoclonic jerk causes the patient to lose balance, and the fall itself is produced by an atonia that occurs immediately after the initial myoclonic jerk. Pure generalized tonic seizures may also lead to an epileptic fall. In most patients, however, no video-polygraphic studies are performed and the pathogenesis of the fall is uncertain. It seems useful to classify astatic seizures separately because of the variable pathogenesis of the falls, which usually remains undefined.
+#vid video18.mp4

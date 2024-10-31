@@ -1,0 +1,9 @@
+#h Neokortikální temporální oblast
+#img TemporalLat.png
+#u Záchvaty z oblasti temporální neokortikální mají typicky tyto znaky:
+- Sluchová aura (halucinace a iluze). Vestibulární příznaky.
+- Psychická aura (prožitkové iluze a halucinace), snové stavy.
+- Komplexní zraková aura.
+- Porucha řeči při postižení řečově dominantní hemisféry.
+- Klonické záškuby v obličeji.
+#vid video6.mp4

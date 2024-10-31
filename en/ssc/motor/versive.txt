@@ -1,0 +1,14 @@
+#h Versive seizure
+Versive seizures are seizures during which the patient either has a conjugate eye movement to one side or moves the head, and occasionally the whole body, to one side. Only conjugate eye movements or lateral head and body movements that are sustained and extreme should be classified as versive seizure.
+
+The lateral movement of the eyes frequently consists of a combination of a smooth tonic lateral movement on which are superimposed small saccades that progressively move the eye out to an extreme position. On other occasions, a smooth lateral movement without any saccades may be observed. The version of body parts has a similar character, but the saccades are replaced by small clonic lateral movements of the head or body. During these lateral movements, the chin frequently moves not only laterally but also upward, resulting in an unnatural position of the eyes and head. Occasionally, the patient's body will also turn and may complete one or more 360&deg; turns.
+Versive seizures may result from epileptic activation of contralateral frontal eye field or surrounding cortex in the frontal lobe. Seizure spread of epileptic activity from other areas may lead to versive seizure. Nonversive head deviation should be distinguished from a versive seizure. Nonversive lateral head movements may accompany for example an early phase of temporal lobe seizures and in this case are usually ipsilateral. However, such movements do not fullfil the criteria for versive seizure - they are not sustained, unnatural and extreme.
+
+#u Somatotopic localization of the symptoms can be applied:
+- Left
+- Right
+- For seizures involving a distinct somatotopic region, the somatotopic area is specified by simply naming the region itself. (Example: left arm, right foot, etc.)
+- Bilateral asymmetric
+- Generalized
+- Axial
+#vids video24.mp4 video25.mp4

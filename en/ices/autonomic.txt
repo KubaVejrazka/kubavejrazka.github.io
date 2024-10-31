@@ -1,0 +1,3 @@
+#h Simple partial seizures with autonomic symptoms or signs
+Seizures with autonomic symptoms such as vomiting, pallor, flushing, sweating, piloerection, pupil dilatation, borborygmi and incontinence may occur as simple partial seizures.
+#vid video13.mp4

@@ -1,0 +1,13 @@
+#h Akinetic seizure
+Akinetic seizures are characterized by the inability to perform voluntary movements while consciousness is fully preserved.
+
+They can actually be considered negative complex motor seizures. Muscle tone is also frequently lost, but the akinesia is the most prominent manifestation of the seizure. These seizures are most probably an expression of the activation of the negative motor areas in the mesial frontal and inferior frontal gyri. Only patients in whom consciousness is preserved during the seizures can have akinetic seizures because they can be tested or tell about the "akinetic" symptoms.
+
+#u Somatotopic localization of the symptoms can be applied:
+- Left
+- Right
+- For seizures involving a distinct somatotopic region, the somatotopic area is specified by simply naming the region itself. (Example: left arm, right foot, etc.)
+- Bilateral asymmetric
+- Generalized
+- Axial
+#vid video30.mp4

@@ -1,0 +1,14 @@
+#h Automotorický záchvat
+Hlavní projevem záchvatů jsou automatizmy postihující distální segmenty rukou, ústa a jazyk.
+
+Typickým projevem při těchto záchvatech jsou oroalimentární automatizmy jako žvýkání, polykání a mlaskání, dále automatizmy rukou, jako je osahávání nebo chytání. Tento typ záchvatů se klasicky vyskytuje u pacientů s epilepsií temporální a v podobném smyslu se tradičně používá pojem „psychomotorický záchvat“. Na začátku automotorických záchvatů se může objevit nehybnost nebo záraz v činnosti a teprve s latencí následují typické automatizmy. Vědomí je většinou během těchto záchvatů porušeno a pacient si na záchvat nepamatuje. Výjimkou mohou být záchvaty u pacientů s temporální epilepsií v řečově nedominantní hemisféře (viz Automatizmy při zachované schopnosti reagovat).
+
+Automotorické záchvaty mohou být také výsledkem šíření záchvatu z jiné oblasti do některého z temporálních laloků. V těchto případech je automotorický záchvat často předcházen jiným typem záchvatu.
+Výsledky elektrické stimulace kortexu nasvědčují tomu, že epileptická aktivace přední části gyrus cinguli vyvolá distální automatizmy končetin. Je také zvažována teorie, zda pocity nebo vjemy spojené s epileptickými výboji nejsou samy o sobě příčinou automatizmů, např. oroalimentární automatizmy by mohly být reakcí na chuťovou auru nebo pohybové automatizmy reakcí na prožívání strachu při auře.
+
+#u U tohoto typu záchvatu určit, pokud lze, jeho původ v hemisféře:
+- Levé
+- Pravé
+- Řečově dominantní
+- Řečově nedominantní
+#vids video1.mp4 video16.mp4 video23.mp4 video34.mp4 video9.mp4

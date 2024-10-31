@@ -1,0 +1,11 @@
+#h Frontální lalok
+#imgs FrontalConvex.png FrontalLat.png
+#u Záchvaty z frontálního laloku mají typicky tyto znaky:
+- Krátké trvání - sekundy až desítky sekund, krátká postparoxyzmální dezorientace.
+- Časný ložiskový projev, postparoxyzmální paréza.
+- Převládají motorické projevy: tonické, klonické, posturální, verze nebo hyperkinetické komplexní motorické vzorce (hypermotorický záchvat).
+- Při bilaterálních výbojích pády.
+- Rychlá sekundární generalizace.
+- Maximum výskytu ve spánku.
+- Tendence ke kumulaci.
+#vids video4.mp4 video27.mp4

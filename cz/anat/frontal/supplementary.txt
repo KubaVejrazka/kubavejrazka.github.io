@@ -1,0 +1,10 @@
+#h Suplementární motorická oblast
+#imgs SMAConvex.png SMAMez.png
+#u Záchvaty ze suplementární senzomotorické oblasti mají typicky tyto znaky:
+- Bilaterální asymetrická, často bizarní tonická postura.
+- Verze očí a hlavy kontralaterálně.
+- Vokalizace nebo záraz v řeči.
+- Náhlý začátek a konec. Zachované vědomí. Chybějící postparoxyzmální alterace.
+- Aura - pocit napětí v kontralaterální HK nebo DK.
+- Vysoká frekvence a vazba na spánek.
+#vid video5.mp4

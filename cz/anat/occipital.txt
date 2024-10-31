@@ -1,0 +1,8 @@
+#h Okcipitální lalok
+#imgs VizualLat.png VizualMez.png
+#u Záchvaty z okcipitálního laloku mají typicky tyto znaky:
+- Zraková aura. Elementární vzorce (malé vícebarevné kruhové vzory objevující se kontralaterálně v periferii zorného pole a šířící se horizontálně k druhé straně), méně často komplexní zrakové halucinace (při šíření záchvatu do oblastí asociačních). Iktální slepota.
+- Pocit pohybu očí.
+- Tonický pohyb očí. Nystagmus. Oboustranné frekventní mrkání.
+- Iktální nebo postiktální bolest hlavy.
+- Další vývoj do záchvatu temporálního nebo frontálního charakteru.

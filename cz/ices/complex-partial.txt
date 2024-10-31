@@ -1,0 +1,23 @@
+#h Parciální záchvaty s komplexní symptomatologií
+Parciální záchvaty s komplexní symptomatologií jsou takové, u nichž obdobně jako u simplexních parciálních záchvatů počáteční klinické projevy a/nebo EEG změny naznačují korovou aktivaci omezenou na část jedné mozkové hemisféry, ale v průběhu záchvatu dochází k narušení vědomí. Porucha vědomí může být prvním klinickým příznakem nebo se do komplexního parciálního záchvatu rozvine záchvat simplexní parciální, obvykle aura. U pacientů se mohou objevit během záchvatů komplexních parciálních změny v chování - automatizmy.
+
+#hh Automatizmy
+Mohou se vyskytovat jak u parciálních, tak generalizovaných záchvatů. Ve Slovníku epilepsie (Gastaut 1973) jsou automatizmy popsány jako více či méně koordinovaná, eupraktická nebo dyspraktická, bezděčná motorická aktivita vyskytující se ve stavu zastření vědomí buď v průběhu epileptického záchvatu, nebo po něm a obvykle je následována amnézií na danou událost. Automatizmy mohou být pokračováním aktivity, která probíhala bezprostředně před začátkem záchvatu, nebo jsou naopak novou aktivitou rozvinutou v souvislosti s iktální poruchou vědomí. Obyčejně jde o činnosti běžné povahy, často vyprovokované prostředím subjektu nebo jeho vjemy během záchvatu; výjimečně se setkáváme s fragmentárním, primitivním, infantilním nebo antisociálním chováním.
+
+#u Z hlediska symptomatologie se rozlišují následující automatizmy:
+- Oroalimentární - žvýkání, polykání
+- Mimikry vyjadřující emocionální stav subjektu, obvykle strach, během záchvatu
+- Gestikulační, hrubé nebo elaborované, zaměřený vůči subjektu nebo jeho okolí
+- Ambulatorní
+- Řečové.
+
+Iktální epileptické automatizmy obvykle představují uvolnění automatického chování pod vlivem zastření vědomí. Postiktální epileptické automatizmy mohou následovat po záchvatu parciálním komplexním nebo i tonicko-klonickém a jsou obvykle spojeny se zmateností.
+
+Někteří autoři považují žvýkací nebo orofaryngeální automatizmy za aktivity vycházející z amygdaly či inzulárních a operkulárních oblastí. Tyto pohyby jsou však příležitostně pozorovány i u generalizovaných epilepsií, zejména při absencích, a nepomáhají lokalizaci. Totéž platí pro jiné druhy automatizmů, např. může docházet k mačkání šatů, škrábání a další komplexní motorické aktivitě jak u komplexních parciálních záchvatů, tak u absencí. Občas se setkáváme s iktálními řečovými automatizmy. Ambulatorní záchvaty se mohou vykytovat buď při prodloužené absenci nebo jako komplexní parciální záchvaty.
+
+#hh Aura
+Aura je často používaný termín při popisu epileptických záchvatů. Podle Slovníku epilepsie tento termín zavedl Galén pro popis vdechnutí vzduchu, který pociťovali někteří pacienti před vznikem záchvatu. Klasicky je aura považována za část záchvatu, kterou pacient prožívá před nástupem ztráty vědomí. Tato ztráta vědomí může být výsledkem sekundární generalizace nebo vývojem záchvatu do komplexního parciálního.
+
+U simplexních parciálních záchvatů se somatosenzorickými nebo speciálními senzorickými příznaky je aura vlastně celým záchvatem. V případě, kdy následně dochází ke ztrátě vědomí, je aura signálním symptomem komplexního parciálního záchvatu.
+
+Aura je retrospektivní pojem, který se popisuje po skončení záchvatu.

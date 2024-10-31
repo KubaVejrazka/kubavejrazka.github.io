@@ -1,0 +1,6 @@
+#h Tonic-clonic seizure
+Tonic-clonic seizures are characterized by typical evolution from tonic contraction to clonic movements.
+
+Generalized tonic-clonic seizures are characterized by an initial tonic posturing of all limbs. The sustained muscle contractions that determined the tonic phase then tend to slow, evolving into a clonic phase with contractions of progressively decreasing frequency until the contractions disappear completely. The muscles included in the tonic and clonic phase should be essentially the same. The impairment of consciousness is present at the onset of the tonic phase. Focal motor seizures showing such a tonic-clonic evolution are infrequent.
+
+#vids video2.mp4 video31.mp4

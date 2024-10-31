@@ -1,0 +1,8 @@
+#h Operkulární oblast
+#img OperkulLat.png
+#u Záchvaty z operkulární a inzulární oblasti mají typicky tyto znaky:
+- Žvýkání, salivace, chrčení, polykání.
+- Vokalizace nebo afázie.
+- Epigastrická aura, chuťové halucinace.
+- Pocit strachu.
+- Klonické faciální záchvaty kontra- i ipsilaterální.

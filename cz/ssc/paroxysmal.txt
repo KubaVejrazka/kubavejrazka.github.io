@@ -1,0 +1,13 @@
+#h Paroxysmální událost
+Jsou to záchvaty, u kterých po zhodnocení předpokládáme neepileptický původ.
+
+Takové události jsou běžněji označovány jako „neepileptické záchvaty“ nebo „pseudozáchvaty“. Jejich původ může být somatický nebo psychogenní. Iktální EEG u těchto záchvatů nezobrazuje žádný z typických iktálních epileptických vzorců a může být v tomto případě použito k odlišení, zda je epizoda epileptickým záchvatem, nebo není. Neepileptické záchvaty jsou definovány jako opakující se paroxyzmální události, které napodobují epileptické záchvaty a které jsou jako tyto mylně diagnostikovány a léčeny.
+
+#u Neepileptické záchvaty psychogenní disociativní mají typicky tyto znaky:
+- Delší trvání, často i desítky minut.
+- Závislé na situaci.
+- Asynchronní, nepravidelné záškuby bez typického vývoje.
+- Není stereotypní charakter.
+- Nedochází k rozvoji postury.
+- Zachované cílené reakce, zavřené oči, aktivní odpor při snaze je otevřít.
+- Nevznikají ze skutečného spánku, někdy ale může jít o zdánlivý spánek.

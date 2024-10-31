@@ -1,0 +1,5 @@
+#h Tonické záchvaty
+Gowers definuje tonický záchvat jako „pevnou, násilnou svalovou kontrakci, která fixuje končetiny v určité poloze“. Dochází obvykle k vychýlení očí a hlavy na jednu stranu a může to vést až k rotaci postihující celé tělo, což někdy skutečně způsobí, že se pacient otočí dokola, dokonce dvakrát nebo třikrát. Mohou se objevovat i tonické axiální záchvaty.
+
+EEG: Iktálně nízká a postupně se zvyšující voltáž rychlé rytmické aktivity s klesající frekvencí. Interiktálně výboje ostrých a pomalých vln, někdy asymetrické, pozadí často abnormální.
+#vid video8.mp4

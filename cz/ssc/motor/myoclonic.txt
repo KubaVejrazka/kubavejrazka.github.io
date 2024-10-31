@@ -1,0 +1,13 @@
+#h Myoklonický záchvat
+Myoklonické záchvaty se skládají z náhlých svalových záškubů krátkého trvání (do 200-400 ms), které se rytmicky neopakují.
+
+Mohou být bilaterální nebo též jednostranné. Generalizované myoklonické záchvaty se často vyskytují u pacientů se syndromem Lennox-Gastaut, kteří typicky mívají několik různých typů záchvatů současně, např. dialeptické záchvaty, astatické záchvaty, generalizované tonicko-klonické záchvaty i různé typy záchvatů fokálních. Generalizované myoklonické záchvaty, které dominantně postihují ramena a proximální část paží, jsou typické pro pacienty s juvenilní myoklonickou epilepsií (JME). V EEG jsou tyto arytmické záškuby doprovázeny většinou výboji izolovaných nebo mnohočetných hrotů jako vyjádření výbojové aktivace motorického kortexu.
+
+#u U tohoto typu záchvatu upřesnit, pokud lze, distribuci projevu:
+- Levostranný
+- Pravostranný
+- Přesně lokalizovatelný na určitou část těla
+- Bilaterální asymetrický
+- Generalizovaný
+- Axiální
+#vids video7.mp4 video32.mp4 video36.mp4 video44.mp4

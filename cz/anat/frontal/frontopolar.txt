@@ -1,0 +1,8 @@
+#h Frontopolární oblast
+#imgs FpolConvex.png FpolLat.png FpolMez.png
+#u Záchvaty z frontopolární oblasti mají typicky tyto znaky:
+- Záraz a iniciální ztráta kontaktu.
+- Motorická aktivita - axiální klonické záškuby, pády, verze očí a hlavy.
+- Mohou být autonomní příznaky.
+- Pocit akcentovaného myšlení - "myšlenkový trysk".
+#vids video36.mp4 video27.mp4

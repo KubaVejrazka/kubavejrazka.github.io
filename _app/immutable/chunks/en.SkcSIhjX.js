@@ -1,0 +1,3 @@
+const e={"nav.title":"Atlas of Epilepsy","main.title":"Atlas of Epileptic Seizures","main.enter":"Enter","main.warning":`The Atlas may be used for pre- or postgraduate education of medical professionals only. With an authors' approval it may be used also for training of non-medical individuals taking care of people with epilepsy. It is the responsibility of the presenting person to follow ethical rules and to keep confidentiality of presented cases. Public propagation of the Atlas is forbidden.
+
+We thank all patients for allowing us to use videos of their seizures in the Atlas.`,"class.ssc":"SSC","class.ices":"ICES","class.anat":"Anatomical Classification","class.lat":"Lateralization Signs"};export{e as default};

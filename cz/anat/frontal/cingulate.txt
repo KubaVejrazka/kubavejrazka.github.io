@@ -1,0 +1,9 @@
+#h Cingulární oblast
+#img CingulMez.png
+#u Záchvaty z cingulární oblasti mají typicky tyto znaky:
+- Motorická agitace - hypermotorické záchvaty s rytmickými pohyby proximálních částí končetin nebo trupu a s gestikulací.
+- Emotivní náboj - vyděšený výraz.
+- Vokalizace - úzkostný křik, hysterický smích.
+- Sexuální automatizmy.
+- Autonomní příznaky.
+#vids video38.mp4 video15.mp4

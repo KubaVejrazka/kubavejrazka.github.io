@@ -1,0 +1,7 @@
+#h Parciální záchvaty simplexní (s elementární symptomatologií)
+Parciální záchvaty jsou takové, u nichž počáteční klinické projevy a/nebo EEG změny naznačují korovou aktivaci omezenou na část jedné mozkové hemisféry. Záchvat se klasifikuje jako simplexní parciální, pokud v jeho průběhu nedošlo k porušení vědomí. Došlo-li k alteraci vědomí, záchvat se klasifikuje jako komplexní parciální. Simplexní parciální záchvat se může rozvinout do komplexního parciálního nebo generalizovaného motorického záchvatu.
+
+Předpokládá se, že simplexní parciální záchvaty obvykle zasahují jednu z mozkových hemisfér a pouze vzácně zasahují obě současně.
+
+EEG: Interiktálně ložiskové výboje ostrých vln nebo hrotů, může být ale i normální nález. Iktálně různé vzorce, ale může být i bez korelátu na skalpu.
+#vid video21.mp4

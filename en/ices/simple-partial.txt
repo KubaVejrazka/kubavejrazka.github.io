@@ -1,0 +1,7 @@
+#h Simple partial seizures
+Partial seizures are those in which, in general, the first clinical and electroencephalographic changes indicate initial activation of a system of neurons limited to part of one cerebral hemisphere. A partial seizure is classified primarily on the basis of whether or not consciousness is impaired during the attack. When consciousness is not impaired, the seizure is classified as a simple partial seizure. When consciousness is impaired, the seizure is classified as a complex partial seizure. Impairment of consciousness may be the first clinical sign, or simple partial seizures may evolve into complex partial seizures or generalized motor seizure.
+
+There is considerable evidence that simple partial seizures usually have unilateral hemispheric involvement and only rarely have bilateral hemispheric involvement.
+
+EEG interictal expression: Local contralateral discharge. EEG seizure type: Local contralateral discharge starting over the corresponding area of cortical representation (not always recorded on the scalp).
+#vid video21.mp4

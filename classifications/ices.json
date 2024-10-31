@@ -1,0 +1,286 @@
+{
+	"CZname": "Mezinárodní klasifikace",
+	"ENname": "International Seizure Classification",
+	"data": "ices",
+	"nodes": [
+		{
+			"CZname": "I. Parciální (fokální, lokalizovatelné) záchvaty",
+			"ENname": "I. Partial seizures",
+			"data": "ices/partial",
+			"nodes": [
+				{
+					"CZname": "I.A Parciální simplexní",
+					"ENname": "I.A Simple partial seizures",
+					"data": "ices/simple-partial",
+					"nodes": [
+						{
+							"CZname": "I.A.1 S motorickými příznaky",
+							"ENname": "I.A.1 With motor signs",
+							"data": "ices/motor",
+              "nodes": [
+                {
+                  "CZname": "I.A.1.a Fokální bez šíření",
+                  "ENname": "I.A.1.a Focal motor without march",
+                  "data": "ices/motor"
+                },
+                {
+                  "CZname": "I.A.1.b Fokální s šířením (Jacksonské)",
+                  "ENname": "I.A.1.b Focal motor with march (Jacksonian)",
+                  "data": "ices/motor"
+                },
+                {
+                  "CZname": "I.A.1.c Verzivní",
+                  "ENname": "I.A.1.c Versive",
+                  "data": "ices/motor"
+                },
+                {
+                  "CZname": "I.A.1.d Posturální",
+                  "ENname": "I.A.1.d Postural",
+                  "data": "ices/motor"
+                },
+                {
+                  "CZname": "I.A.I.e Fonační (vokalizace nebo zástava řeči)",
+                  "ENname": "I.A.I.e Phonatory (vocalization or arrest of speech)",
+                  "data": "ices/motor"
+                }
+              ]
+						},
+						{
+							"CZname": "I.A.2 Se somatosenzorickými nebo speciálními senzorickými příznaky",
+							"ENname": "I.A.2 With somatosensory or special sensory symptoms",
+							"data": "ices/somatosensory",
+              "nodes": [
+                {
+                  "CZname": "I.A.2.a Somatosenzorické",
+                  "ENname": "I.A.2.a Somatosensory",
+                  "data": "ices/somatosensory/somatosensory"
+                },
+                {
+                  "CZname": "I.A.2.b Zrakové",
+                  "ENname": "I.A.2.b Visual",
+                  "data": "ices/somatosensory/b-f"
+                },
+                {
+                  "CZname": "I.A.2.c Sluchové",
+                  "ENname": "I.A.2.c Auditory",
+                  "data": "ices/somatosensory/b-f"
+                },
+                {
+                  "CZname": "I.A.2.d Čichové",
+                  "ENname": "I.A.2.d Olfactory",
+                  "data": "ices/somatosensory/b-f"
+                },
+                {
+                  "CZname": "I.A.2.e Chuťové",
+                  "ENname": "I.A.2.e Gustatory",
+                  "data": "ices/somatosensory/b-f"
+                },
+                {
+                  "CZname": "I.A.2.f Závrativé",
+                  "ENname": "I.A.2.f Vertiginous",
+                  "data": "ices/somatosensory/b-f"
+                }
+              ]
+						},
+						{
+							"CZname": "I.A.3 S autonomními symptomy nebo projevy",
+							"ENname": "I.A.3 With autonomic symptoms or signs",
+							"data": "ices/autonomic"
+						},
+            {
+              "CZname": "I.A.4 S psychickými projevy",
+              "ENname": "I.A.4 With psychic symptoms",
+              "data": "ices/psychic",
+              "nodes": [
+                {
+                  "CZname": "I.A.4.a Dysfatické",
+                  "ENname": "I.A.4.a Dysphasic",
+                  "data": "ices/psychic/dysphasic"
+                },
+                {
+                  "CZname": "I.A.4.b Dysmnestické",
+                  "ENname": "I.A.4.b Dysmnesic",
+                  "data": "ices/psychic/dysmnesic"
+                },
+                {
+                  "CZname": "I.A.4.c Kognitivní",
+                  "ENname": "I.A.4.c Cognitive",
+                  "data": "ices/psychic/cognitive"
+                },
+                {
+                  "CZname": "I.A.4.d Afektivní",
+                  "ENname": "I.A.4.d Affective",
+                  "data": "ices/psychic/affective"
+                },
+                {
+                  "CZname": "I.A.4.e Iluze",
+                  "ENname": "I.A.4.e Illusions",
+                  "data": "ices/psychic/illusions"
+                },
+                {
+                  "CZname": "I.A.4.f Strukturované halucinace",
+                  "ENname": "I.A.4.f Structured hallucinations",
+                  "data": "ices/psychic/hallucinations"
+                }
+              ]
+            }
+					]
+				},
+				{
+					"CZname": "I.B Parciální komplexní",
+					"ENname": "I.B Complex partial seizures",
+					"data": "ices/complex-partial",
+					"nodes": [
+						{
+							"CZname": "I.B.1 S iniciálními jednoduchými příznaky s následnou poruchou vědomí",
+							"ENname": "I.B.1 Simple partial onset followed by impairment of consciousness",
+							"data": "ices/simple-consciousness",
+							"nodes": [
+								{
+									"CZname": "I.B.1.a S jednoduchými parciálními znaky a následnou poruchou vědomí",
+									"ENname": "I.B.1.a With simple partial features followed by impaired consciousness",
+									"data": "ices/simple-consciousness"
+								},
+								{
+									"CZname": "I.B.1.b S automatizmy",
+									"ENname": "I.B.1.b With automatisms",
+									"data": "ices/simple-consciousness"
+								}
+							]
+						},
+						{
+							"CZname": "I.B.2 S iniciální poruchou vědomí",
+							"ENname": "I.B.2 With impairment of consciousness on onset",
+							"data": "ices/consciousness",
+							"nodes": [
+								{
+									"CZname": "I.B.2.a Pouze s poruchou vědomí",
+									"ENname": "I.B.2.a With impairment of consciousness only",
+									"data": "ices/consciousness"
+								},
+								{
+									"CZname": "I.B.2.b S automatizmy",
+									"ENname": "I.B.2.b With automatisms",
+									"data": "ices/consciousness"
+								}
+							]
+						}
+					]
+				},
+				{
+					"CZname": "I.C Parciální přecházející v generalizované",
+					"ENname": "I.C Partial seizures evolving into secondary generalized seizures",
+					"data": "ices/partial-generalized",
+					"nodes": [
+						{
+							"CZname": "I.C.1 Simplexní parciální přecházející v generalizované",
+							"ENname": "I.C.1 Simple partial seizures evolving to generalized seizures",
+							"data": "ices/partial-generalized"
+						},
+						{
+							"CZname": "I.C.2 Komplexní parciální přecházející v generalizované",
+							"ENname": "I.C.2 Complex partial seizures evolving to generalized seizures",
+							"data": "ices/partial-generalized"
+						},
+						{
+							"CZname": "I.C.3 Simplexní parciální přecházející v komplexní parciální a pak v generalizované",
+							"ENname": "I.C.3 Simple partial seizures evolving to complex partial seizures evolving to generalized seizures",
+							"data": "ices/partial-generalized"
+						}
+					]
+				}
+			]
+		},
+		{
+			"CZname": "II. Generalizované záchvaty",
+			"ENname": "II. Generalized seizures",
+			"data": "ices/generalized",
+			"nodes": [
+				{
+					"CZname": "II.A1 Absence",
+					"ENname": "II.A1 Absence seizures",
+					"data": "ices/absence",
+					"nodes": [
+						{
+							"CZname": "II.A1.a Pouze s narušením vědomí",
+							"ENname": "II.A1.a Impairment of consciousness only",
+							"data": "ices/absence/consciousness"
+						},
+						{
+							"CZname": "II.A1.b S mírnou klonickou složkou",
+							"ENname": "II.A1.b With mild clonic components",
+							"data": "ices/absence/clonic"
+						},
+						{
+							"CZname": "II.A1.c S atonickou složkou",
+							"ENname": "II.A1.c With atonic components",
+							"data": "ices/absence/atonic"
+						},
+						{
+							"CZname": "II.A1.d S tonickou složkou",
+							"ENname": "II.AI.d With tonic components",
+							"data": "ices/absence/tonic"
+						},
+						{
+							"CZname": "II.A1.e S automatizmy",
+							"ENname": "II.A1.e With automatisms",
+							"data": "ices/absence/automatisms"
+						},
+						{
+							"CZname": "II.A1.f S autonomní složkou",
+							"ENname": "II.A1.f With autonomic components",
+							"data": "ices/absence/autonomic"
+						}
+					]
+				},
+				{
+					"CZname": "II.A2 Atypické absence",
+					"ENname": "II.A2 Atypical absence seizures",
+					"data": "ices/atypical-absence",
+					"nodes": [
+						{
+							"CZname": "II.A2.a S výraznější atonií",
+							"ENname": "II.A2.a Changes in tone that are more pronounced in A1",
+							"data": "ices/atypical-absence"
+						},
+						{
+							"CZname": "II.A2.b Bez náhlého začátku a/nebo konce",
+							"ENname": "II.A2.b Onset and/or cessation that is not abrupt",
+							"data": "ices/atypical-absence"
+						}
+					]
+				},
+				{
+					"CZname": "II.B Myoklonické záchvaty",
+					"ENname": "II.B Myoclonic seizures (jerks)",
+					"data": "ices/myoclonic"
+				},
+				{
+					"CZname": "II.C Klonické záchvaty",
+					"ENname": "II.C Clonic seizures",
+					"data": "ices/clonic"
+				},
+				{
+					"CZname": "II.D Tonické záchvaty",
+					"ENname": "II.D Tonic seizures",
+					"data": "ices/tonic"
+				},
+				{
+					"CZname": "II.E Tonicko-klonické záchvaty",
+					"ENname": "II.E Tonic-clonic seizures",
+					"data": "ices/tonic-clonic"
+				},
+				{
+					"CZname": "II.F Atonické (astatické) záchvaty",
+					"ENname": "II.F Atonic (astatic) seizures",
+					"data": "ices/atonic"
+				}
+			]
+		},
+		{
+			"CZname": "III. Neklasifikovatelné epileptické záchvaty",
+			"ENname": "III. Unclassified epileptic seizures",
+			"data": "ices/unclassified"
+		}
+	]
+}

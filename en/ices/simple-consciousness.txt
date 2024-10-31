@@ -1,0 +1,4 @@
+#h Simple partial onset followed by impairment of consciousness
+- I.B.1.a - with simple partial features followed by impaired consciousness
+- I.B.1.b - with automatisms
+#vids video4.mp4 video6.mp4 video9.mp4 video16.mp4 video24.mp4 video34.mp4

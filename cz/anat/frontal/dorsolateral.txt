@@ -1,0 +1,7 @@
+#h Dorzolaterální oblast
+#imgs DorsolatConvex.png DorsolatLat.png
+#u Záchvaty z dorzolaterální oblasti mají typicky tyto znaky:
+- Verze očí a hlavy kontralaterálně.
+- Tonické záchvaty.
+- Záraz v řeči při postižení řečově dominantní hemisféry.
+#vids video24.mp4 video25.mp4

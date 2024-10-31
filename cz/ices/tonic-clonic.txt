@@ -1,0 +1,7 @@
+#h Tonicko-klonické záchvaty
+Generalizované záchvaty, s nimiž se setkáváme nejčastěji, často nazývané jako „grand mal“. Někteří pacienti udávají vágní, špatně popsatelnou předzvěst, většina však ztrácí vědomí bez jakýchkoliv předchozích výstražných příznaků. Při iniciální tonické kontrakci svalů, do níž se zapojí i svaly dýchací, se objeví hvizd nebo zasténání. Pokud stojí, upadne pacient v tonické křeči na zem. Během tonické kontrakce nemůže pacient dýchat a typicky se objeví cyanóza. Může dojít k pokousání jazyka a inkontinenci. Tato tonická fáze přechází postupně do generalizovaných klonických konvulzí, které trvají různě dlouho. Během tohoto stadia se mohou objevit výbuchy respiračního chrčení mezi jednotlivými konvulzemi, obvykle pacient zůstává cyanotický a z úst mu mohou vytékat sliny. Na konci tohoto stadia nastane hluboké dýchání a všechny svaly se uvolní, pacient zůstává v bezvědomí po proměnlivou dobu. Poté často upadá do spánku a když se probudí, cítí se již dobře kromě bolestí hlavy a/nebo celého těla. Generalizované tonicko-klonické záchvaty se mohou objevit v dětství i v dospělém věku.
+
+EEG: Interiktálně výboje SW, PSW nebo ostrá vlna-pomalá. Iktálně nízkovoltážní rytmická rychlá aktivita s klesající frekvencí a rostoucí amplitudou během tonické fáze přerušovaná pomalými vlnami během klonické fáze. Po skončení difuzní oploštění.
+
+Interiktální EEG: Mnohočetné výboje hrot-vlna nebo výboje hrot-vlna či někdy ostré a pomalé vlny.
+#vid video31.mp4

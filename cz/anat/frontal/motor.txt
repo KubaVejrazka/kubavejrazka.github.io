@@ -1,0 +1,8 @@
+#h Primární motorická oblast
+#vids video3.mp4 video35.mp4
+#u Záchvaty z primární motorické kůry mají typicky tyto znaky:
+- Somatotopická organizace.
+- Záchvaty kontralaterální části těla klonické, výjimečně tonické posturální s klonickými záškuby. Statické nebo s jacksonským šířením.
+- Může předcházet pocit napětí v dané části těla.
+- Může následovat postparoxyzmální paréza.
+- Záchvaty z inferiorní 1/3 precentrálního gyru: Zástava v řeči, vokalizace nebo dysfázie, tonické nebo klonické záškuby na kontralaterální polovině obličeje, polykání.

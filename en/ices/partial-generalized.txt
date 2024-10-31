@@ -1,0 +1,5 @@
+#h Partial seizures evolving to secondarily generalized seizures
+- I.C.1 Simple partial seizures evolving to generalized seizures
+- I.C.2 Complex partial seizures evolving to generalized seizures
+- I.C.3 Simple partial seizures evolving to complex partial seizures evolving to generalized seizures
+#vids video25.mp4 video2.mp4 video41.mp4
